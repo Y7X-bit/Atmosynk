@@ -1,4 +1,4 @@
-<h1 align="center">🌩️ ATMOSYNK — Weather Pro Max</h1>
+<h1 align="center">🌩️ ATMOSYNK</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Built%20By-Y7X-red?style=flat-square&logo=github" />
