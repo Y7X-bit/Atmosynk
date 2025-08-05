@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🌩️ Atmosynk  
-**🌩️ Atmosynk live weather. red glow. full control.**
+**🌩️ Atmosynk live weather. Red glow. Full control.**
 
 Real time forecast with voice input & auto-location.  
 Branded with 💗 by [Y7X-bit](https://github.com/Y7X-bit)
