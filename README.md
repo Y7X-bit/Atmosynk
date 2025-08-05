@@ -1,9 +1,9 @@
 <div align="center">
 
 # 🌩️ Atmosynk  
-**🌩️ Atmosynk — live weather. red glow. full control.**
+**🌩️ Atmosynk live weather. red glow. full control.**
 
-Real-time forecast with AMOLED UI, voice input & auto-location.  
+Real time forecast with voice input & auto-location.  
 Branded with 💗 by [Y7X-bit](https://github.com/Y7X-bit)
 
 <img src="assets/1.png" alt="Atmosynk UI Preview" width="600"/>
@@ -31,6 +31,6 @@ Branded with 💗 by [Y7X-bit](https://github.com/Y7X-bit)
 
 ```bash
 git clone https://github.com/Y7X-bit/Atmosynk.git
-cd Atmosynk
+cd atmosynk
 pip install -r requirements.txt
-python Atmosynk.py
+python atmosynk.py
